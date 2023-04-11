@@ -10,3 +10,19 @@
 
 > Every Notebook i will create, Will have the material for each lesson and any other resourses and links needed and All resourses are included in every chapter page in the course website. 
 the notebook are just as playground all materials are included in the main course and in every practise chapter
+
+## P1:1
+* Book Chapter Link - https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+* Slides Notebook(Kaggle) - https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
+* Slides Notebook(Github) - https://github.com/fastai/course22/blob/master/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb
+* Chapter Page - https://course.fast.ai/Lessons/lesson1.html
+* Chapter Questions Solutions - https://forums.fast.ai/t/fastbook-chapter-1-questionnaire-solutions-wiki/65647
+
+Websites mentioned
+* Ethics.AI - https://ethics.fast.ai/
+* Docs.AI - https://docs.fast.ai/
+* TimmDocs.AI - https://timm.fast.ai/
+* RISE Extension for (Jupyter)- https://rise.readthedocs.io/en/stable/
+* FastAI git repo - https://github.com/fastai/fastai
+* FastAI nbdev - https://nbdev.fast.ai/
+
