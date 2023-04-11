@@ -2,7 +2,7 @@
 ### The main course Website 
 * FastAI - https://course.fast.ai/
 * Youtube PlayList - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
-
+* Course Material Github Repo - https://github.com/fastai/course22/blob/master/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb
 ### FastAI Book
 * Github Free Book Repo - https://github.com/fastai/fastbook
 * Book as Jupyter Files - https://course.fast.ai/Resources/book.html
