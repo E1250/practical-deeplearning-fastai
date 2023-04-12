@@ -26,3 +26,11 @@ Websites mentioned
 * FastAI git repo - https://github.com/fastai/fastai
 * FastAI nbdev - https://nbdev.fast.ai/
 
+# P1:2
+* Book Chapter Link - https://github.com/fastai/fastbook/blob/master/02_production.ipynb
+* Chapter Page - https://course.fast.ai/Lessons/lesson2.html
+* Chapter Questions Solutions - https://forums.fast.ai/t/fastbook-chapter-2-questionnaire-solutions-wiki/66392
+
+Websites mentioned
+* aiquizzes - https://aiquizzes.com/
+* Jupyter Extentions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
