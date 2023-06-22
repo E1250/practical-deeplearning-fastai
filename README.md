@@ -10,7 +10,7 @@
 
 > Every Notebook i will create, Will have the material for each lesson and any other resourses and links needed and All resourses are included in every chapter page in the course website. 
 the notebook are just as playground all materials are included in the main course and in every practise chapter
-
+# P1
 ## P1:1
 * Book Chapter Link - https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 * Slides Notebook(Kaggle) - https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
@@ -26,11 +26,12 @@ Websites mentioned
 * FastAI git repo - https://github.com/fastai/fastai
 * FastAI nbdev - https://nbdev.fast.ai/
 
-# P1:2
+## P1:2
 * Book Chapter Link - https://github.com/fastai/fastbook/blob/master/02_production.ipynb
 * Chapter Page - https://course.fast.ai/Lessons/lesson2.html
 * Chapter Questions Solutions - https://forums.fast.ai/t/fastbook-chapter-2-questionnaire-solutions-wiki/66392
-
-Websites mentioned
-* aiquizzes - https://aiquizzes.com/
+* Code Notebook(Colab) - https://colab.research.google.com/drive/1M-mzhZdFQ2XWBSbLCuKzrmLsm0aLEYxQ?usp=sharing
+  
+Website mentioned
+* aiquizzes(Quizes about the Book) - https://aiquizzes.com/
 * Jupyter Extentions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
