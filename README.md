@@ -41,9 +41,8 @@ Websites mentioned
 * Chapter Page - https://course.fast.ai/Lessons/lesson2.html
 * Chapter Questions Solutions - https://forums.fast.ai/t/fastbook-chapter-2-questionnaire-solutions-wiki/66392z
 * Code Notebook(Colab) - https://colab.research.google.com/drive/1M-mzhZdFQ2XWBSbLCuKzrmLsm0aLEYxQ?usp=sharing
-
-Website mentioned
-
+#### Website mentioned
+* Transforming Vanilla PyTorch Code into Production Ready ML Pipeline - Without Selling Your Soul - https://blog.zenml.io/pytorch-experiment-tracking/
 * aiquizzes(Quizes about the Book) - https://aiquizzes.com/
 * Jupyter Extentions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
 
