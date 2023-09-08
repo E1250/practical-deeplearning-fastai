@@ -46,6 +46,8 @@ Websites mentioned
 * aiquizzes(Quizes about the Book) - https://aiquizzes.com/
 * Jupyter Extentions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
 * Gradio + HuggingFace Spaces - https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial
+* Mamba - https://github.com/mamba-org/mamba
+* NBDev - https://nbdev.fast.ai/
 ### From-Scratch Model
 
 #### Lesson notebooks
