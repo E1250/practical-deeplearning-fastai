@@ -1,5 +1,3 @@
-# Page
-
 ## Practical Deep Learning Course for beginners from Fast.AI
 
 #### The main course Website
@@ -14,7 +12,7 @@
 * Book as Jupyter Files - https://course.fast.ai/Resources/book.html
 * Paid Amazon Book - https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch-ebook-dp-B08C2KM7NR/dp/B08C2KM7NR
 * AIQuizzes - https://aiquizzes.com/
-> Every Notebook i will create, Will have the material for each lesson and any other resourses and links needed and All resourses are included in every chapter page in the course website. the notebook are just as playground all materials are included in the main course and in every practise chapter
+> Every Notebook I will create, Will have the material for each lesson and any other resources and links needed and All resources are included in every chapter page on the course website. the notebook is just a playground all materials are included in the main course and in every practice chapter
 
 ## P1
 
@@ -41,13 +39,25 @@ Websites mentioned
 * Chapter Page - https://course.fast.ai/Lessons/lesson2.html
 * Chapter Questions Solutions - https://forums.fast.ai/t/fastbook-chapter-2-questionnaire-solutions-wiki/66392z
 * Code Notebook(Colab) - https://colab.research.google.com/drive/1M-mzhZdFQ2XWBSbLCuKzrmLsm0aLEYxQ?usp=sharing
-#### Website mentioned
+#### Website Mentioned
 * Transforming Vanilla PyTorch Code into Production Ready ML Pipeline - Without Selling Your Soul - https://blog.zenml.io/pytorch-experiment-tracking/
 * aiquizzes(Quizes about the Book) - https://aiquizzes.com/
-* Jupyter Extentions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
+* Jupyter Extensions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
 * Gradio + HuggingFace Spaces - https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial
 * Mamba - https://github.com/mamba-org/mamba
 * NBDev - https://nbdev.fast.ai/
+
+### Neural net foundations
+* [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
+* [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
+* [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/)
+* [Hugging Face Space](https://huggingface.co/spaces/jph00/pets/tree/main)
+
+
+
+
+
+
 ### From-Scratch Model
 
 #### Lesson notebooks
