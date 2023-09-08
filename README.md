@@ -13,7 +13,7 @@
 * Github Free Book Repo - https://github.com/fastai/fastbook
 * Book as Jupyter Files - https://course.fast.ai/Resources/book.html
 * Paid Amazon Book - https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch-ebook-dp-B08C2KM7NR/dp/B08C2KM7NR
-
+* AIQuizzes - https://aiquizzes.com/
 > Every Notebook i will create, Will have the material for each lesson and any other resourses and links needed and All resourses are included in every chapter page in the course website. the notebook are just as playground all materials are included in the main course and in every practise chapter
 
 ## P1
