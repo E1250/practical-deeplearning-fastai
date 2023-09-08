@@ -18,7 +18,7 @@
 
 ## P1
 
-### P1:1
+### Getting started
 
 * Book Chapter Link - https://github.com/fastai/fastbook/blob/master/01\_intro.ipynb
 * Slides Notebook(Kaggle) - https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
@@ -35,7 +35,7 @@ Websites mentioned
 * FastAI git repo - https://github.com/fastai/fastai
 * FastAI nbdev - https://nbdev.fast.ai/
 
-### P1:2
+### Deployment
 
 * Book Chapter Link - https://github.com/fastai/fastbook/blob/master/02\_production.ipynb
 * Chapter Page - https://course.fast.ai/Lessons/lesson2.html
