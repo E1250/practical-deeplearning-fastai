@@ -45,7 +45,7 @@ Websites mentioned
 * Transforming Vanilla PyTorch Code into Production Ready ML Pipeline - Without Selling Your Soul - https://blog.zenml.io/pytorch-experiment-tracking/
 * aiquizzes(Quizes about the Book) - https://aiquizzes.com/
 * Jupyter Extentions - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
-
+* Gradio + HuggingFace Spaces - https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial
 ### From-Scratch Model
 
 #### Lesson notebooks
