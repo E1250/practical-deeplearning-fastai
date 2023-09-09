@@ -52,7 +52,12 @@ Websites mentioned
 * [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
 * [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/)
 * [Hugging Face Space](https://huggingface.co/spaces/jph00/pets/tree/main)
+* [Matrix Multiplication](http://matrixmultiplication.xyz/)
 
+### Natural Language (NLP)
+* [Transformers](https://huggingface.co/docs/transformers/index)
+* [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
+* [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners)
 
 
 
