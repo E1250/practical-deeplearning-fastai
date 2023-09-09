@@ -58,12 +58,21 @@ Websites mentioned
 * [Transformers](https://huggingface.co/docs/transformers/index)
 * [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
 * [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners)
-
-
-
-
+* [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+* [How (and why) to create a good validation set](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
+* [The problem with metrics is a big problem for AI](https://www.fast.ai/posts/2019-09-24-metrics.html)
+* [Iterate like a grandmaster!](https://www.kaggle.com/code/jhoward/iterate-like-a-grandmaster/)
+* [More than a Million Pro-Repeal Net Neutrality Comments were Likely Faked](https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
 
 ### From-Scratch Model
+
+
+
+
+
+
+
+
 
 #### Lesson notebooks
 
