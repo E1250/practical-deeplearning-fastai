@@ -65,20 +65,12 @@ Websites mentioned
 * [More than a Million Pro-Repeal Net Neutrality Comments were Likely Faked](https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
 
 ### From-Scratch Model
-
-
-
-
-
-
-
-
-
 #### Lesson notebooks
 
 * [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
 * [Why you should use a framework](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
 * [How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
+* [Ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 
 
 #### Links from the lesson
 
