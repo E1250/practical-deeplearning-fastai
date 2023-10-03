@@ -76,3 +76,11 @@ Websites mentioned
 
 * [OneR paper](https://link.springer.com/article/10.1023/A:1022631118932)
 * Some great Titanic notebooks: [1](https://www.kaggle.com/code/mrisdal/exploring-survival-on-the-titanic); [2](https://www.kaggle.com/code/cdeotte/titanic-wcg-xgboost-0-84688/notebook); [3](https://www.kaggle.com/code/pliptor/divide-and-conquer-0-82296); [4](https://www.kaggle.com/code/cdeotte/titanic-using-name-only-0-81818/notebook)
+
+### Random Forests
+* [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
+* [How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
+* [First Steps: Road to the Top, Part 1](https://www.kaggle.com/code/jhoward/first-steps-road-to-the-top-part-1)
+* [How to explain gradient boosting](https://explained.ai/gradient-boosting/)
+* [Statistical Modeling: The Two Cultures ](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-(with-and-a-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372)
+
