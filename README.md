@@ -83,4 +83,4 @@ Websites mentioned
 * [First Steps: Road to the Top, Part 1](https://www.kaggle.com/code/jhoward/first-steps-road-to-the-top-part-1)
 * [How to explain gradient boosting](https://explained.ai/gradient-boosting/)
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-(with-and-a-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372))
-
+* [Explained.ai](https://explained.ai/)
