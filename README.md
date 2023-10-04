@@ -89,6 +89,7 @@ Websites mentioned
 
 ### Convolutions (CNNs)
 * [Book Chapter 13](https://github.com/fastai/fastbook/blob/master/13_convolutions.ipynb)
+* [Numerical Linear Algebra FastAI](https://github.com/fastai/numerical-linear-algebra)
 * [HuggingFace Spaces Pets repository](https://huggingface.co/spaces/jph00/pets/tree/main)
 * [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
 * [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
