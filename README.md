@@ -86,3 +86,11 @@ Websites mentioned
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-(with-and-a-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372))
 * [The best vision models for fine-tuning](https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning)
 * [Explained.ai](https://explained.ai/)
+
+### Convolutions (CNNs)
+* [Book Chapter 13](https://github.com/fastai/fastbook/blob/master/13_convolutions.ipynb)
+* [HuggingFace Spaces Pets repository](https://huggingface.co/spaces/jph00/pets/tree/main)
+* [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
+* [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
+* [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/)
+* [Fastbook Chapter 4 questionnaire solutions (wiki)](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253)
