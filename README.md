@@ -81,6 +81,8 @@ Websites mentioned
 * [Book Chapter 9](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
 * [How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
 * [First Steps: Road to the Top, Part 1](https://www.kaggle.com/code/jhoward/first-steps-road-to-the-top-part-1)
+* [Small models: Road to the Top, Part 2](https://www.kaggle.com/code/jhoward/small-models-road-to-the-top-part-2)
 * [How to explain gradient boosting](https://explained.ai/gradient-boosting/)
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-(with-and-a-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372))
+* [The best vision models for fine-tuning](https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning)
 * [Explained.ai](https://explained.ai/)
