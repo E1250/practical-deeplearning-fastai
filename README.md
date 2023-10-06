@@ -87,6 +87,14 @@ Websites mentioned
 * [The best vision models for fine-tuning](https://www.kaggle.com/code/jhoward/the-best-vision-models-for-fine-tuning)
 * [Explained.ai](https://explained.ai/)
 
+### Collaborative filtering
+* [Book Chapter 8](https://github.com/fastai/fastbook/blob/master/08_collab.ipynb)
+* [Scaling Up: Road to the Top, Part 3](https://www.kaggle.com/code/jhoward/scaling-up-road-to-the-top-part-3)
+* [Multi-target: Road to the Top, Part 4](https://www.kaggle.com/code/jhoward/multi-target-road-to-the-top-part-4)
+* [Collaborative Filtering Deep Dive](https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive/notebook)
+* [Things that confused me about cross-entropy Blog](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)
+* [Lecture Data](https://github.com/fastai/course22/tree/master/xl)
+
 ### Convolutions (CNNs)
 * [Book Chapter 13](https://github.com/fastai/fastbook/blob/master/13_convolutions.ipynb)
 * [Numerical Linear Algebra FastAI](https://github.com/fastai/numerical-linear-algebra)
