@@ -18,7 +18,7 @@
 
 ### Getting started
 
-* Book Chapter Link - https://github.com/fastai/fastbook/blob/master/01\_intro.ipynb
+* Book Chapter 1 - https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
 * Slides Notebook(Kaggle) - https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
 * Slides Notebook(Github) - https://github.com/fastai/course22/blob/master/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb
 * Chapter Page - https://course.fast.ai/Lessons/lesson1.html
