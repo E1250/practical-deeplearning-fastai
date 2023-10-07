@@ -35,7 +35,7 @@ Websites mentioned
 
 ### Deployment
 
-* Book Chapter Link - https://github.com/fastai/fastbook/blob/master/02\_production.ipynb
+* Book Chapter 2 - https://github.com/fastai/fastbook/blob/master/02_production.ipynb
 * Chapter Page - https://course.fast.ai/Lessons/lesson2.html
 * Chapter Questions Solutions - https://forums.fast.ai/t/fastbook-chapter-2-questionnaire-solutions-wiki/66392z
 * Code Notebook(Colab) - https://colab.research.google.com/drive/1M-mzhZdFQ2XWBSbLCuKzrmLsm0aLEYxQ?usp=sharing
@@ -48,6 +48,7 @@ Websites mentioned
 * NBDev - https://nbdev.fast.ai/
 
 ### Neural net foundations
+* [Book Chapter 4](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
 * [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
 * [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
 * [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/)
@@ -55,6 +56,7 @@ Websites mentioned
 * [Matrix Multiplication](http://matrixmultiplication.xyz/)
 
 ### Natural Language (NLP)
+* [Book Chapter 10](https://github.com/fastai/fastbook/blob/master/10_nlp.ipynb)
 * [Transformers](https://huggingface.co/docs/transformers/index)
 * [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
 * [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners)
@@ -66,7 +68,7 @@ Websites mentioned
 
 ### From-Scratch Model
 #### Lesson notebooks
-
+* Book Chapter [4](https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb) - [9](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
 * [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
 * [Why you should use a framework](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
 * [How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
